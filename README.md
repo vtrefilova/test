@@ -9,7 +9,6 @@ https://l.handh.ru/school
 Для запуска нужны:
 >python3
 numpy
-
 ###Запуск
 ####Команды для запуска:
 >git clone https://github.com/vtrefilova/test.git
