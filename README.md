@@ -7,11 +7,13 @@ https://l.handh.ru/school
 Если же параметр с клавиатуры не является натуральным числом, программа сообщает о том что данные не валидны и просит ввести натуральное число.
 ### Требования
 Для запуска нужны:
->python3
-numpy
-###Запуск
-####Команды для запуска:
->git clone https://github.com/vtrefilova/test.git
+* python3
+* numpy
+### Запуск
+#### Команды для запуска:
+```
+git clone https://github.com/vtrefilova/test.git
 cd test
 pip3 install numpy
 python3 test_prog.py
+```
